@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #openmetadata/db:1.4.4
 #openmetadata/server:1.4.4
---platform=linux/amd64 openmetadata/ingestion:1.4.4
+#--platform=linux/amd64 openmetadata/ingestion:1.4.4
+--platform=linux/amd64 elasticsearch/elasticsearch:8.10.2
