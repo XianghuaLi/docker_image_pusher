@@ -4,4 +4,6 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-openmetadata/db:1.4.4
+#openmetadata/db:1.4.4
+openmetadata/server:1.4.4
+--platform=linux/amd64
